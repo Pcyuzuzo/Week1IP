@@ -1,0 +1,91 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-image: url('https://res.cloudinary.com/df3uirutn/image/upload/v1608285552/images/Ghana-Flag-1024x640_pc8nsp.jpg');
+    color: white;
+    font-size: 17px;
+  }
+  
+  h1{
+    font-size: 36px;
+    padding-top: 20px;
+  }
+  
+  .container{
+    width: 80%;
+    margin: auto;
+  }
+  
+  #year-input{
+    border-radius: 5px;
+    width: 60px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  #month-input{
+    border-radius: 5px;
+    width: 60px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  #day-input{
+    border-radius: 5px;
+    width: 60px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  #get-name{
+    border-radius: 5px;
+    color: #000000;
+    background-color: #FCD116;
+    text-align: center;
+    border: solid 1px #000000;
+    width: 108px;
+    height: 32px;
+    font-size: 13px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  #result{
+    text-align: center;
+  }
+  
+  .content{
+    background-color: rgba(21, 180, 74, 0.72);
+    /* height: 600px; */
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    margin-bottom: auto;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px #000000;
+    border-radius: 0.5%;
+  }
+  #pa{
+    border: dashed black;
+    background-color: rgb(121, 7, 7);
+  }
+  
+  .research{
+    text-decoration: underline;
+    color: white;
+  }
+  
+  .clear{
+    border-radius: 5px;
+    color: #000000;
+    background-color: #FCD116;
+    text-align: center;
+    border: solid 1px #000000;
+    width: 108px;
+    height: 32px;
+    font-size: 13px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  a:hover{
+    color: #006B3F;
+  }
+  
